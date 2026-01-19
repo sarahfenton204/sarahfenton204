@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 👩‍💻 About Me
-- 🎓 Student studying Computer Information Systems
+- 🎓 Student studying Computer Information Systems at Wayne State College
 - 💻 Interested in technology and customer service
 
 ## 🛠️ Skills & Technologies
