@@ -224,21 +224,40 @@ CSC465 Advance Web Development
 
 ### 📌 Summary
 
+This is a full-stack weather web application built using **Node.js, Express, and vanilla JavaScript 🌤️**  
+
+Users enter latitude and longitude, and the app retrieves real-time weather data from the Open-Meteo API.
+The project demonstrates how a frontend and backend communicate using RESTful API requests.
+
 
 ### 🛠 Technologies Used
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- Open-Meteo API
 
 ### 🧠 Key Learning Concepts
-- 
+- Express.js server setup  
+- REST API endpoint creation (`/weather`)  
+- Serving static files using Express  
+- Fetching external APIs (Open-Meteo)  
+- Async/Await for asynchronous programming  
+- JSON request/response handling  
+- Query parameters in URLs  
+- Error handling with `try/catch` and HTTP status codes  
+- DOM manipulation for dynamic UI updates  
+- Event listeners (including Enter key support)  
+- Data conversion (Celsius → Fahrenheit)  
+- Separation of frontend and backend logic  
 
 ### 🚦 Project Status
 Completed
 
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/7add50a8-6ff1-4368-891f-137f4128f49a" />
+
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
-
 
 
 ### 🔗 Repository Link
