@@ -45,10 +45,10 @@ Completed
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/7b99b29b-ca39-4d10-8234-d2a06f06b1de" />
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/JavaScript_Chap_1_2_Receipt)
+
+<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/7b99b29b-ca39-4d10-8234-d2a06f06b1de" />
 
 ---
 
@@ -79,11 +79,10 @@ Completed
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-<img width="1896" height="907" alt="Chap_3_4" src="https://github.com/user-attachments/assets/793216a6-8f0c-4d88-9dc5-4390923b0668" />
-
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_3_4_Flashcard)
+
+<img width="1896" height="907" alt="Chap_3_4" src="https://github.com/user-attachments/assets/793216a6-8f0c-4d88-9dc5-4390923b0668" />
 
 ---
 
@@ -113,10 +112,10 @@ Completed
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-<img width="1897" height="907" alt="Chap_5" src="https://github.com/user-attachments/assets/6fe1cd08-3c3d-40e0-9e79-01d244967b06" />
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_5_Guess_Number)
+
+<img width="1897" height="907" alt="Chap_5" src="https://github.com/user-attachments/assets/6fe1cd08-3c3d-40e0-9e79-01d244967b06" />
 
 ---
 
@@ -147,10 +146,11 @@ Completed
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-<img width="1895" height="907" alt="Chap_6" src="https://github.com/user-attachments/assets/0a1ebfb4-d64f-4cc4-a7a2-fee9f7346ce2" />
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Smartwatch-FAQ-Chap-6)
+
+<img width="1895" height="907" alt="Chap_6" src="https://github.com/user-attachments/assets/0a1ebfb4-d64f-4cc4-a7a2-fee9f7346ce2" />
+
 ---
 
 # 🧩 Chap_8_9_Retirement
@@ -181,10 +181,10 @@ Completed
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-<img width="1897" height="907" alt="Chap_8_9" src="https://github.com/user-attachments/assets/6974e7cb-11e3-4e97-8bd0-a5b2e873a14e" />
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_8_9_Retirement)
+
+<img width="1897" height="907" alt="Chap_8_9" src="https://github.com/user-attachments/assets/6974e7cb-11e3-4e97-8bd0-a5b2e873a14e" />
 
 ---
 
@@ -213,10 +213,10 @@ Completed
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-<img width="1897" height="903" alt="Chap_11_12_13" src="https://github.com/user-attachments/assets/fe8b769e-2dbb-4db7-adac-02a7a6886570" />
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap11-12-13-Movie)
+
+<img width="1897" height="903" alt="Chap_11_12_13" src="https://github.com/user-attachments/assets/fe8b769e-2dbb-4db7-adac-02a7a6886570" />
 
 ---
 
@@ -254,14 +254,13 @@ The project demonstrates how a frontend and backend communicate using RESTful AP
 ### 🚦 Project Status
 Completed
 
-<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/7add50a8-6ff1-4368-891f-137f4128f49a" />
-
 ### 🎓 Course or Self-Project
 CSC465 Advance Web Development
 
-
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_14_15_Server)
+
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/7add50a8-6ff1-4368-891f-137f4128f49a" />
 
 ---
 
