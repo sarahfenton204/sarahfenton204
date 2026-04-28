@@ -6,15 +6,15 @@ Welcome! I am a student studying Computer Information Systems at Wayne State Col
 
 ## 📚 Table of Contents
 
-| Repository | Primary Tech | Category |
-|------------|-------------|----------|
-| [JavaScript_Chap_1_2_Receipt](#JavaScript_Chap_1_2_Receipt) | JavaScript | CSC465 Advance Web Development |
-| [Chap_3_4_Flashcard](#Chap_3_4_Flashcard) | JavaScript | CSC465 Advance Web Development |
-| [Chap_5_Guess_Number](#Chap_5_Guess_Number) | JavaScript | CSC465 Advance Web Development |
-| [Smartwatch-FAQ-Chap-6](#Smartwatch-FAQ-Chap-6) | JavaScript | CSC465 Advance Web Development |
-| [Chap_8_9_Retirement](#Chap_8_9_Retirement) | JavaScript | CSC465 Advance Web Development |
-| [Chap11-12-13-Movie](#Chap11-12-13-Movie) | JavaScript | CSC465 Advance Web Development |
-| [Chap_14_15_Server](#Chap_14_15_Server) | JavaScript | CSC465 Advance Web Development |
+| Repository | Primary Tech | Category | Link |
+|------------|-------------|----------|---------------|
+| [JavaScript_Chap_1_2_Receipt](#JavaScript_Chap_1_2_Receipt) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/JavaScript_Chap_1_2_Receipt) |
+| [Chap_3_4_Flashcard](#Chap_3_4_Flashcard) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_3_4_Flashcard) |
+| [Chap_5_Guess_Number](#Chap_5_Guess_Number) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_5_Guess_Number) |
+| [Smartwatch-FAQ-Chap-6](#Smartwatch-FAQ-Chap-6) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Smartwatch-FAQ-Chap-6) |
+| [Chap_8_9_Retirement](#Chap_8_9_Retirement) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_8_9_Retirement) |
+| [Chap11-12-13-Movie](#Chap11-12-13-Movie) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap11-12-13-Movie) |
+| [Chap_14_15_Server](#Chap_14_15_Server) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_14_15_Server) |
 
 ---
 
@@ -27,28 +27,23 @@ The program collects user input for a grocery purchase, validates the input, cal
 The project is based on the Chapter 1 email_list example and modified to meet the assignment requirements for Chapters 1 and 2.
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Key Learning Concepts
 - Client-side input validation
 - Conditional (ternary) operators
-- Template literals for formatted output
-- Currency formatting using toFixed(2)
 - JavaScript constants (const)
-- Clean, readable function-based logic
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/JavaScript_Chap_1_2_Receipt)
 
-<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/7b99b29b-ca39-4d10-8234-d2a06f06b1de" />
+<img width="100" height="100" alt="Untitled design" src="https://github.com/user-attachments/assets/bb6beab0-6996-4d97-b013-45f71900cbad" />
 
 ---
 
@@ -61,28 +56,23 @@ All flashcards are managed directly in the browser using JavaScript.
 The app supports adding, listing, quizzing, clearing, and loading default flashcards while reinforcing core web development concepts like DOM manipulation and program logic.
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Key Learning Concepts
 - DOM manipulation
 - Event handling in JavaScript
 - Array data management
-- Conditional logic and control flow
-- String formatting and validation
-- State management for quiz progression
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_3_4_Flashcard)
 
-<img width="1896" height="907" alt="Chap_3_4" src="https://github.com/user-attachments/assets/793216a6-8f0c-4d88-9dc5-4390923b0668" />
+<img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/2091a602-21dc-4fd6-9add-6ed1fad39ae3" />
 
 ---
 
@@ -94,28 +84,23 @@ This is a simple browser-based game where the player tries to guess a randomly g
 The game provides feedback based on how close the guess is, tracks the number of attempts, and records the best score to encourage improvement and replayability.
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Key Learning Concepts
 - Random number generation
 - Event handling (button click & Enter key)
-- Conditional logic for feedback system
 - Array tracking for guess history
-- State management for game resets
-- User feedback and dynamic UI updates
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_5_Guess_Number)
 
-<img width="1897" height="907" alt="Chap_5" src="https://github.com/user-attachments/assets/6fe1cd08-3c3d-40e0-9e79-01d244967b06" />
+<img width="100" height="100" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/6e67dbc3-0b06-475e-a0c3-89138dc4d7ce" />
 
 ---
 
@@ -127,29 +112,23 @@ This project displays an interactive FAQ page for a smartwatch ⌚
 The interface uses collapsible panels where clicking on a question reveals the answer while dynamically updating a corresponding image at the top of the page. This creates a more engaging and user-friendly experience.
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Key Learning Concepts
 - Adding and removing classes from DOM elements
-- Accessing custom HTML attributes
 - Navigating DOM using sibling relationships
-- Comparing DOM elements for equality
-- Handling event targets (Event object)
 - Toggling visibility with class manipulation
-- Iterating and mutating arrays using Array.forEach()
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Smartwatch-FAQ-Chap-6)
 
-<img width="1895" height="907" alt="Chap_6" src="https://github.com/user-attachments/assets/0a1ebfb4-d64f-4cc4-a7a2-fee9f7346ce2" />
+<img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/265c67fd-5369-4579-a6b9-37e0dded5701" />
 
 ---
 
@@ -161,9 +140,9 @@ This is a dynamic web application that calculates and displays a live projection
 Users can input financial data such as initial balance, monthly contributions, interest rate, and retirement date. The app then simulates investment growth using compound interest and displays the results in real time.
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Key Learning Concepts
 📘 Chapters 8 & 9
@@ -175,16 +154,14 @@ Users can input financial data such as initial balance, monthly contributions, i
 📘 Chapter 10
 - Local Storage
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_8_9_Retirement)
 
-<img width="1897" height="907" alt="Chap_8_9" src="https://github.com/user-attachments/assets/6974e7cb-11e3-4e97-8bd0-a5b2e873a14e" />
+<img width="100" height="100" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/2c37461f-8243-47c4-9bc9-7eb4bb70eeff" />
 
 ---
 
@@ -198,25 +175,23 @@ Each movie includes a title, genre, and rating (1–10). This project demonstrat
 It is based on the Task List application from Murach’s Modern JavaScript and was fully redesigned into a Movie Tracker.
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 Key Learning Concepts
 - Arrays
 - Objects
 - Modules
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap11-12-13-Movie)
 
-<img width="1897" height="903" alt="Chap_11_12_13" src="https://github.com/user-attachments/assets/fe8b769e-2dbb-4db7-adac-02a7a6886570" />
+<img width="100" height="100" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/938b468f-b7d6-42a2-adaa-ca69f6c01b19" />
 
 ---
 
@@ -231,38 +206,28 @@ The project demonstrates how a frontend and backend communicate using RESTful AP
 
 
 ### 🛠 Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Open-Meteo API
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧠 Key Learning Concepts
-- Express.js server setup  
-- REST API endpoint creation (`/weather`)  
-- Serving static files using Express  
 - Fetching external APIs (Open-Meteo)  
-- Async/Await for asynchronous programming  
 - JSON request/response handling  
-- Query parameters in URLs  
-- Error handling with `try/catch` and HTTP status codes  
-- DOM manipulation for dynamic UI updates  
-- Event listeners (including Enter key support)  
-- Data conversion (Celsius → Fahrenheit)  
 - Separation of frontend and backend logic  
 
-### 🚦 Project Status
-Completed
+### 🚦 Project Status ✅
 
-### 🎓 Course or Self-Project
-CSC465 Advance Web Development
+### 🎓 Course - CSC465 Advance Web Development
 
 ### 🔗 Repository Link
 [View Project](https://github.com/sarahfenton204/Chap_14_15_Server)
 
-<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/7add50a8-6ff1-4368-891f-137f4128f49a" />
+<img width="100" height="100" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/7f684791-778e-4bd8-8b32-fc379ba622df" />
 
 ---
 
-
 [⬆ Back to TOC](#-table-of-contents)
+
+---
