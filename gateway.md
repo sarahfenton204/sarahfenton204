@@ -8,13 +8,13 @@ Welcome! I am a student studying Computer Information Systems at Wayne State Col
 
 | Repository | Primary Tech | Category | Link |
 |------------|-------------|----------|---------------|
-| [JavaScript_Chap_1_2_Receipt](#JavaScript_Chap_1_2_Receipt) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/JavaScript_Chap_1_2_Receipt) |
-| [Chap_3_4_Flashcard](#Chap_3_4_Flashcard) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_3_4_Flashcard) |
-| [Chap_5_Guess_Number](#Chap_5_Guess_Number) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_5_Guess_Number) |
-| [Smartwatch-FAQ-Chap-6](#Smartwatch-FAQ-Chap-6) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Smartwatch-FAQ-Chap-6) |
-| [Chap_8_9_Retirement](#Chap_8_9_Retirement) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_8_9_Retirement) |
-| [Chap11-12-13-Movie](#Chap11-12-13-Movie) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap11-12-13-Movie) |
-| [Chap_14_15_Server](#Chap_14_15_Server) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_14_15_Server) |
+| [JavaScript_Chap_1_2_Receipt](#-javascript_chap_1_2_receipt) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/JavaScript_Chap_1_2_Receipt) |
+| [Chap_3_4_Flashcard](#-chap_3_4_flashcard) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_3_4_Flashcard) |
+| [Chap_5_Guess_Number](#-chap_5_guess_number) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_5_Guess_Number) |
+| [Smartwatch-FAQ-Chap-6](#-smartwatch-faq-chap-6) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Smartwatch-FAQ-Chap-6) |
+| [Chap_8_9_Retirement](#-chap_8_9_retirement) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_8_9_Retirement) |
+| [Chap11-12-13-Movie](#-chap11-12-13-movie) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap11-12-13-Movie) |
+| [Chap_14_15_Server](#-chap_14_15_server) | JavaScript | CSC465 Advance Web Development | [View Project](https://github.com/sarahfenton204/Chap_14_15_Server) |
 
 ---
 
