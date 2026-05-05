@@ -45,6 +45,7 @@ The project is based on the Chapter 1 email_list example and modified to meet th
 
 <img width="100" height="100" alt="Untitled design" src="https://github.com/user-attachments/assets/bb6beab0-6996-4d97-b013-45f71900cbad" />
 
+- [Back to TOC](#-table-of-contents)
 ---
 
 # 🧩 Chap_3_4_Flashcard
@@ -74,6 +75,7 @@ The app supports adding, listing, quizzing, clearing, and loading default flashc
 
 <img width="100" height="100" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/2091a602-21dc-4fd6-9add-6ed1fad39ae3" />
 
+- [Back to TOC](#-table-of-contents)
 ---
 
 # 🧩 Chap_5_Guess_Number
@@ -102,6 +104,7 @@ The game provides feedback based on how close the guess is, tracks the number of
 
 <img width="100" height="100" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/6e67dbc3-0b06-475e-a0c3-89138dc4d7ce" />
 
+- [Back to TOC](#-table-of-contents)
 ---
 
 # 🧩 Smartwatch-FAQ-Chap-6
@@ -130,6 +133,7 @@ The interface uses collapsible panels where clicking on a question reveals the a
 
 <img width="100" height="100" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/265c67fd-5369-4579-a6b9-37e0dded5701" />
 
+- [Back to TOC](#-table-of-contents)
 ---
 
 # 🧩 Chap_8_9_Retirement
@@ -163,6 +167,7 @@ Users can input financial data such as initial balance, monthly contributions, i
 
 <img width="100" height="100" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/2c37461f-8243-47c4-9bc9-7eb4bb70eeff" />
 
+- [Back to TOC](#-table-of-contents)
 ---
 
 # 🧩 Chap11-12-13-Movie
@@ -193,6 +198,7 @@ It is based on the Task List application from Murach’s Modern JavaScript and w
 
 <img width="100" height="100" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/938b468f-b7d6-42a2-adaa-ca69f6c01b19" />
 
+- [Back to TOC](#-table-of-contents)
 ---
 
 # 🧩 Chap_14_15_Server
@@ -226,8 +232,6 @@ The project demonstrates how a frontend and backend communicate using RESTful AP
 
 <img width="100" height="100" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/7f684791-778e-4bd8-8b32-fc379ba622df" />
 
----
-
-[⬆ Back to TOC](#-table-of-contents)
+- [Back to TOC](#-table-of-contents)
 
 ---
